@@ -1,0 +1,409 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* SpriteBatches */ = {
+		activeExec = 0;
+		executables = (
+			DC10A7A11209976F00EB596C /* SpriteBatches */,
+		);
+	};
+	1F3B9A2B0EF2145700286867 /* SpriteBatchesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 1246}}";
+			sepNavSelRange = "{1497, 0}";
+			sepNavVisRange = "{306, 1608}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DC10A7A11209976F00EB596C /* SpriteBatches */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SpriteBatches */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SpriteBatches */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = DC10A7BB1209977100EB596C /* Code sense */;
+		executables = (
+			DC10A7A11209976F00EB596C /* SpriteBatches */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					796,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306606041;
+			PBXWorkspaceStateSaveDate = 306606041;
+		};
+		perUserProjectItems = {
+			DC08B2B9120AF32900BC5F83 /* PBXBookmark */ = DC08B2B9120AF32900BC5F83 /* PBXBookmark */;
+			DC08B2BA120AF32900BC5F83 /* PBXBookmark */ = DC08B2BA120AF32900BC5F83 /* PBXBookmark */;
+			DC08B2BC120AF32900BC5F83 /* PBXBookmark */ = DC08B2BC120AF32900BC5F83 /* PBXBookmark */;
+			DC08B2BD120AF32900BC5F83 /* PBXBookmark */ = DC08B2BD120AF32900BC5F83 /* PBXBookmark */;
+			DC08B2BE120AF32900BC5F83 /* PBXBookmark */ = DC08B2BE120AF32900BC5F83 /* PBXBookmark */;
+			DC08B2BF120AF32900BC5F83 /* PBXBookmark */ = DC08B2BF120AF32900BC5F83 /* PBXBookmark */;
+			DC08B2C0120AF32900BC5F83 /* PBXBookmark */ = DC08B2C0120AF32900BC5F83 /* PBXBookmark */;
+			DC10A8411209A14200EB596C /* PBXTextBookmark */ = DC10A8411209A14200EB596C /* PBXTextBookmark */;
+			DC4D870A120C1EE5003EA5A2 /* PBXTextBookmark */ = DC4D870A120C1EE5003EA5A2 /* PBXTextBookmark */;
+			DC90595A1246701700C84018 /* PBXTextBookmark */ = DC90595A1246701700C84018 /* PBXTextBookmark */;
+			DC90595B1246701700C84018 /* PBXTextBookmark */ = DC90595B1246701700C84018 /* PBXTextBookmark */;
+			DC90595C1246701700C84018 /* PBXTextBookmark */ = DC90595C1246701700C84018 /* PBXTextBookmark */;
+			DC90595D1246701700C84018 /* PBXTextBookmark */ = DC90595D1246701700C84018 /* PBXTextBookmark */;
+			DC90595E1246701700C84018 /* PBXBookmark */ = DC90595E1246701700C84018 /* PBXBookmark */;
+			DC90595F1246701700C84018 /* PBXTextBookmark */ = DC90595F1246701700C84018 /* PBXTextBookmark */;
+			DC907FE91209B9D30089911B /* PBXTextBookmark */ = DC907FE91209B9D30089911B /* PBXTextBookmark */;
+			DC907FEA1209B9D30089911B /* PBXTextBookmark */ = DC907FEA1209B9D30089911B /* PBXTextBookmark */;
+			DC9080691209CE5C0089911B /* PBXTextBookmark */ = DC9080691209CE5C0089911B /* PBXTextBookmark */;
+			DCEB54E11209ACFA00F33A93 /* PBXTextBookmark */ = DCEB54E11209ACFA00F33A93 /* PBXTextBookmark */;
+			DCEB551C1209B16600F33A93 /* PBXTextBookmark */ = DCEB551C1209B16600F33A93 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DC10A7BA1209977100EB596C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	DC08B29F120AD14800BC5F83 /* ship-anim1.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "ship-anim1.png";
+		path = "/Users/gaminghorror/Documents/!Learn cocos2d book/Chapter6 Resources/CH06_code/Sprites06/Resources/ship-anim1.png";
+		sourceTree = "<absolute>";
+	};
+	DC08B2A0120AD14800BC5F83 /* ship-anim2.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "ship-anim2.png";
+		path = "/Users/gaminghorror/Documents/!Learn cocos2d book/Chapter6 Resources/CH06_code/Sprites06/Resources/ship-anim2.png";
+		sourceTree = "<absolute>";
+	};
+	DC08B2A1120AD14800BC5F83 /* ship-anim3.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "ship-anim3.png";
+		path = "/Users/gaminghorror/Documents/!Learn cocos2d book/Chapter6 Resources/CH06_code/Sprites06/Resources/ship-anim3.png";
+		sourceTree = "<absolute>";
+	};
+	DC08B2A2120AD14800BC5F83 /* ship-anim4.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "ship-anim4.png";
+		path = "/Users/gaminghorror/Documents/!Learn cocos2d book/Chapter6 Resources/CH06_code/Sprites06/Resources/ship-anim4.png";
+		sourceTree = "<absolute>";
+	};
+	DC08B2B9120AF32900BC5F83 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DC10A7D61209982500EB596C /* bullet.png */;
+	};
+	DC08B2BA120AF32900BC5F83 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DC10A7D71209982500EB596C /* ship.png */;
+	};
+	DC08B2BC120AF32900BC5F83 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DC08B29F120AD14800BC5F83 /* ship-anim1.png */;
+	};
+	DC08B2BD120AF32900BC5F83 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DC08B2A0120AD14800BC5F83 /* ship-anim2.png */;
+	};
+	DC08B2BE120AF32900BC5F83 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DC08B2A1120AD14800BC5F83 /* ship-anim3.png */;
+	};
+	DC08B2BF120AF32900BC5F83 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DC10A88C1209A73500EB596C /* background.png */;
+	};
+	DC08B2C0120AF32900BC5F83 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DC08B2A2120AD14800BC5F83 /* ship-anim4.png */;
+	};
+	DC10A7A11209976F00EB596C /* SpriteBatches */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpriteBatches;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	DC10A7BA1209977100EB596C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DC10A7BB1209977100EB596C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DC10A7D3120997A400EB596C /* GameScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {759, 653}}";
+			sepNavSelRange = "{384, 0}";
+			sepNavVisRange = "{0, 540}";
+		};
+	};
+	DC10A7D4120997A400EB596C /* GameScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 1498}}";
+			sepNavSelRange = "{1870, 0}";
+			sepNavVisRange = "{1444, 1082}";
+		};
+	};
+	DC10A7D61209982500EB596C /* bullet.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = bullet.png;
+		path = "/Users/gaminghorror/Documents/!Learn cocos2d book/Chapter6 Resources/CH06_code/Sprites06/Resources/bullet.png";
+		sourceTree = "<absolute>";
+	};
+	DC10A7D71209982500EB596C /* ship.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = ship.png;
+		path = "/Users/gaminghorror/Documents/!Learn cocos2d book/Chapter6 Resources/CH06_code/Sprites06/Resources/ship.png";
+		sourceTree = "<absolute>";
+	};
+	DC10A7DA120998C200EB596C /* Bullet.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {759, 648}}";
+			sepNavSelRange = "{370, 19}";
+			sepNavVisRange = "{0, 410}";
+		};
+	};
+	DC10A7DB120998C200EB596C /* Bullet.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 938}}";
+			sepNavSelRange = "{780, 0}";
+			sepNavVisRange = "{235, 817}";
+		};
+	};
+	DC10A7E112099A6800EB596C /* Ship.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {759, 650}}";
+			sepNavSelRange = "{243, 0}";
+			sepNavVisRange = "{0, 250}";
+		};
+	};
+	DC10A7E212099A6800EB596C /* Ship.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 1036}}";
+			sepNavSelRange = "{1066, 0}";
+			sepNavVisRange = "{361, 1468}";
+		};
+	};
+	DC10A8411209A14200EB596C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC10A7E112099A6800EB596C /* Ship.h */;
+		name = "Ship.h: 16";
+		rLen = 0;
+		rLoc = 243;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 0;
+	};
+	DC4D86FD120C1E77003EA5A2 /* CCAnimationHelper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 707}}";
+			sepNavSelRange = "{211, 0}";
+			sepNavVisRange = "{0, 447}";
+		};
+	};
+	DC4D86FE120C1E77003EA5A2 /* CCAnimationHelper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 707}}";
+			sepNavSelRange = "{939, 0}";
+			sepNavVisRange = "{0, 1477}";
+		};
+	};
+	DC4D870A120C1EE5003EA5A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2B0EF2145700286867 /* SpriteBatchesAppDelegate.m */;
+		name = "SpriteBatchesAppDelegate.m: 50";
+		rLen = 0;
+		rLoc = 1497;
+		rType = 0;
+		vrLen = 1608;
+		vrLoc = 306;
+	};
+	DC90595A1246701700C84018 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC4D86FD120C1E77003EA5A2 /* CCAnimationHelper.h */;
+		name = "CCAnimationHelper.h: 11";
+		rLen = 0;
+		rLoc = 211;
+		rType = 0;
+		vrLen = 447;
+		vrLoc = 0;
+	};
+	DC90595B1246701700C84018 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC10A7D4120997A400EB596C /* GameScene.m */;
+		name = "GameScene.m: 79";
+		rLen = 0;
+		rLoc = 1870;
+		rType = 0;
+		vrLen = 1082;
+		vrLoc = 1444;
+	};
+	DC90595C1246701700C84018 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC10A7E212099A6800EB596C /* Ship.m */;
+		name = "Ship.m: 39";
+		rLen = 0;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 1468;
+		vrLoc = 361;
+	};
+	DC90595D1246701700C84018 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC10A7DB120998C200EB596C /* Bullet.m */;
+		name = "Bullet.m: 49";
+		rLen = 0;
+		rLoc = 780;
+		rType = 0;
+		vrLen = 817;
+		vrLoc = 235;
+	};
+	DC90595E1246701700C84018 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DC4D86FE120C1E77003EA5A2 /* CCAnimationHelper.m */;
+	};
+	DC90595F1246701700C84018 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC4D86FE120C1E77003EA5A2 /* CCAnimationHelper.m */;
+		name = "CCAnimationHelper.m: 25";
+		rLen = 0;
+		rLoc = 939;
+		rType = 0;
+		vrLen = 1477;
+		vrLoc = 0;
+	};
+	DC907FE91209B9D30089911B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E0C551CD11FA3B0C00B9E4CB /* ccConfig.h */;
+		name = "ccConfig.h: 56";
+		rLen = 0;
+		rLoc = 2152;
+		rType = 0;
+		vrLen = 1705;
+		vrLoc = 2365;
+	};
+	DC907FEA1209B9D30089911B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC10A7D3120997A400EB596C /* GameScene.h */;
+		name = "GameScene.h: 23";
+		rLen = 0;
+		rLoc = 384;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 0;
+	};
+	DC9080691209CE5C0089911B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC10A7DA120998C200EB596C /* Bullet.h */;
+		name = "Bullet.h: 24";
+		rLen = 19;
+		rLoc = 370;
+		rType = 0;
+		vrLen = 410;
+		vrLoc = 0;
+	};
+	DCEB54E11209ACFA00F33A93 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E0C5521611FA3B0C00B9E4CB /* CCSpriteBatchNode.m */;
+		name = "CCSpriteBatchNode.m: 90";
+		rLen = 0;
+		rLoc = 2906;
+		rType = 0;
+		vrLen = 1303;
+		vrLoc = 9932;
+	};
+	DCEB551C1209B16600F33A93 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E0C5523F11FA3B0C00B9E4CB /* CCArray.m */;
+		name = "CCArray.m: 235";
+		rLen = 0;
+		rLoc = 5090;
+		rType = 0;
+		vrLen = 996;
+		vrLoc = 4095;
+	};
+	E0C551CD11FA3B0C00B9E4CB /* ccConfig.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 2758}}";
+			sepNavSelRange = "{2152, 0}";
+			sepNavVisRange = "{2365, 1705}";
+		};
+	};
+	E0C5521411FA3B0C00B9E4CB /* CCSprite.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {633, 13888}}";
+			sepNavSelRange = "{5821, 0}";
+			sepNavVisRange = "{5821, 309}";
+		};
+	};
+	E0C5521611FA3B0C00B9E4CB /* CCSpriteBatchNode.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 6958}}";
+			sepNavSelRange = "{2906, 0}";
+			sepNavVisRange = "{9932, 1303}";
+		};
+	};
+	E0C5523F11FA3B0C00B9E4CB /* CCArray.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {759, 3290}}";
+			sepNavSelRange = "{5090, 0}";
+			sepNavVisRange = "{4095, 996}";
+		};
+	};
+}

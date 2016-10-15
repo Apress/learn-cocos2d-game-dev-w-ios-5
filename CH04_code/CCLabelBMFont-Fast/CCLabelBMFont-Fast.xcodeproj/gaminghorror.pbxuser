@@ -1,0 +1,194 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* CCBitmapFontAtlas-Fast */ = {
+		activeExec = 0;
+		executables = (
+			DCDC016511F89E3F00324EB2 /* CCBitmapFontAtlas-Fast */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = DCDC016511F89E3F00324EB2 /* CCBitmapFontAtlas-Fast */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CCBitmapFontAtlas-Fast */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CCBitmapFontAtlas-Fast */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = DCDC018C11F89E5D00324EB2 /* Code sense */;
+		executables = (
+			DCDC016511F89E3F00324EB2 /* CCBitmapFontAtlas-Fast */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					727,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 301589594;
+			PBXWorkspaceStateSaveDate = 301589594;
+		};
+		perUserProjectItems = {
+			DCC078C711F8AAC900E961A3 /* PlistBookmark */ = DCC078C711F8AAC900E961A3 /* PlistBookmark */;
+			DCC0790B11F8AEA700E961A3 /* PBXTextBookmark */ = DCC0790B11F8AEA700E961A3 /* PBXTextBookmark */;
+			DCC0794411F8B83A00E961A3 /* PBXBookmark */ = DCC0794411F8B83A00E961A3 /* PBXBookmark */;
+			DCC0794511F8B83A00E961A3 /* PBXTextBookmark */ = DCC0794511F8B83A00E961A3 /* PBXTextBookmark */;
+			DCFA0EBD11F9E50400156194 /* PBXTextBookmark */ = DCFA0EBD11F9E50400156194 /* PBXTextBookmark */;
+			DCFA0EBE11F9E50400156194 /* PlistBookmark */ = DCFA0EBE11F9E50400156194 /* PlistBookmark */;
+		};
+		sourceControlManager = DCDC018B11F89E5D00324EB2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	506EDC2F102F528A00A389B3 /* HelloWorldScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {905, 533}}";
+			sepNavSelRange = "{364, 0}";
+			sepNavVisRange = "{0, 498}";
+		};
+	};
+	506EDC30102F528A00A389B3 /* HelloWorldScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {924, 2464}}";
+			sepNavSelRange = "{3650, 0}";
+			sepNavVisRange = "{0, 742}";
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	507ED25211C62F03002ED3FC /* CCBitmapFontAtlas.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {925, 9016}}";
+			sepNavSelRange = "{13350, 0}";
+			sepNavVisRange = "{13126, 570}";
+		};
+	};
+	DCC078C711F8AAC900E961A3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 50F414EF1069373D002A0D5E /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/depot/cocos2d/Tutorials/CCBitmapFontAtlas-Fast/Resources/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DCC078D311F8AB6500E961A3 /* arial40.fnt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {905, 1428}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 4100}";
+		};
+	};
+	DCC0790B11F8AEA700E961A3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DCC078D311F8AB6500E961A3 /* arial40.fnt */;
+		name = "arial40.fnt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 4100;
+		vrLoc = 0;
+	};
+	DCC0794411F8B83A00E961A3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DCC078D411F8AB6500E961A3 /* arial40.png */;
+	};
+	DCC0794511F8B83A00E961A3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC2F102F528A00A389B3 /* HelloWorldScene.h */;
+		name = "HelloWorldScene.h: 14";
+		rLen = 0;
+		rLoc = 364;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 0;
+	};
+	DCDC016511F89E3F00324EB2 /* CCBitmapFontAtlas-Fast */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "CCBitmapFontAtlas-Fast";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	DCDC018B11F89E5D00324EB2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DCDC018C11F89E5D00324EB2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DCFA0EBD11F9E50400156194 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC30102F528A00A389B3 /* HelloWorldScene.m */;
+		name = "HelloWorldScene.m: 128";
+		rLen = 0;
+		rLoc = 3650;
+		rType = 0;
+		vrLen = 742;
+		vrLoc = 0;
+	};
+	DCFA0EBE11F9E50400156194 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 50F414EF1069373D002A0D5E /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/depot/cocos2d/Tutorials/CCBitmapFontAtlas-Fast/Resources/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
